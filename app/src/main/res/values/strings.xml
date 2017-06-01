@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EX3</string>
+    <string-array name="spinner_menu">
+        <item>Random</item>
+        <item>Threshold</item>
+        <item>Mean Blur</item>
+        <item>Gaussian Blur</item>
+        <item>Dialation</item>
+        <item>Erosion</item>
+        <item>Adaptive Thresholding</item>
+        <item>Difference of Gaussian</item>
+        <item>Canny Edge</item>
+        <item>Sobel Edge</item>
+        <item>Corner Detection</item>
+        <item>Hough Line Transform</item>
+        <item>Edgy</item>
+        <item>Best Lines</item>
+    </string-array>
+</resources>
